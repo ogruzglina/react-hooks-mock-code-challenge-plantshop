@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.9
     },
     {
       "id": 4,
@@ -37,10 +37,16 @@
       "price": 25.99
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "cactus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXP45J1hAmXQ0JMGY3ZGP5_tPDNE6IbxVkQ&usqp=CAU",
+      "price": 7,
+      "id": 10
+    },
+    {
+      "name": "ramen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEaBx7VZzTul5yZ7VJHM_JkBQXku-eAhe-w&usqp=CAU",
+      "price": 10.56,
+      "id": 11
     }
   ]
 }
